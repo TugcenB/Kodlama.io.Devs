@@ -1,0 +1,12 @@
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\bin\Debug\net6.0\Core.Emailing.deps.json
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\bin\Debug\net6.0\Core.Emailing.dll
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\bin\Debug\net6.0\Core.Emailing.pdb
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\obj\Debug\net6.0\Core.Emailing.csproj.AssemblyReference.cache
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\obj\Debug\net6.0\Core.Emailing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\obj\Debug\net6.0\Core.Emailing.AssemblyInfoInputs.cache
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\obj\Debug\net6.0\Core.Emailing.AssemblyInfo.cs
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\obj\Debug\net6.0\Core.Emailing.csproj.CoreCompileInputs.cache
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\obj\Debug\net6.0\Core.Emailing.dll
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\obj\Debug\net6.0\refint\Core.Emailing.dll
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\obj\Debug\net6.0\Core.Emailing.pdb
+C:\Users\Tugce\source\repos\Kodlama.io.Devs\src\corePackages\Core.Emailing\obj\Debug\net6.0\ref\Core.Emailing.dll
